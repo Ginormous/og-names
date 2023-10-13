@@ -44,7 +44,6 @@ Akhmed
 Akim
 Akmal
 Aksel
-Al
 Alan
 Alana
 Alasdair
@@ -730,7 +729,6 @@ Eberhard
 Eckard
 Eckart
 Eckhard
-Ed
 Edda
 Eddie
 Edelgard
@@ -2017,7 +2015,6 @@ Misty
 Mitch
 Mitchell
 Mityay
-Mo
 Mogens
 Mohamed
 Mohammad
